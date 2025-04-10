@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/2.2 - Editing Animation Clips/Scenes/BallExample.unity
+- path: Assets/3.3 - Creating and configuring Animator States/Scenes/AnimatorStateSettingsExample.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
