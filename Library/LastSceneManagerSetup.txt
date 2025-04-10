@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/1.3 - Core Concepts Animation Blending/Scenes/CoreConcepts.unity
+- path: Assets/2.2 - Editing Animation Clips/Scenes/BallExample.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
